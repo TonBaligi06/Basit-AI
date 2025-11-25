@@ -1,3 +1,4 @@
+# kodu kopyalamadan önce ingilizce diline çevirin(hatalar çıkabilir)
 import math
 
 # Basit veri tabanı: soru türleri ve mantıklı cevaplar
@@ -55,3 +56,4 @@ while True:
         print("MiniAI: Görüşürüz! :)")
         break
     print("MiniAI:", cevapla(soru))
+
